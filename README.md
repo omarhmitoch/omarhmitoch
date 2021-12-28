@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Omar
 - 👀 I am interested in Web Development
 - 📫 reach me in : omar.hmitouch@edu.uca.ma 
-- Personal portfolio website in progress. Meanwhile, you can check the live version of the github projects on Netlify (included in each github repo description).
+- omarhm.webflow.io
