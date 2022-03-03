@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Omar
-- 👀 I am interested in Web Development
+- 👋 Hey there , I’m Omar
 - 📫 reach me in : omar.hmitouch@edu.uca.ma 
-- [Personal portfolio](https://omarhm.webflow.io)
+- [Check out some of my work](https://omarhm.webflow.io)
