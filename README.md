@@ -1,3 +1,3 @@
-- 👋 Hey there , I’m Omar
+- 👋 Hey there , I’m Omar, a frontend developer at Lightfunnels.
 - 📫 reach me in : omar.hmitouch@edu.uca.ma 
 - [Check out some of my work](https://omarhm.webflow.io)
